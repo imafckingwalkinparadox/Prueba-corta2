@@ -1,0 +1,13 @@
+footer {
+    width: 100%;
+    height: 4rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: grey;
+}
+
+.bloques {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

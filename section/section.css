@@ -1,0 +1,10 @@
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.div {
+    background-color: rgb(232, 163, 36);
+    gap: 30px;
+}
